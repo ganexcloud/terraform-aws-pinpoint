@@ -48,6 +48,6 @@ No modules.
 
 | Name | Description |
 |------|-------------|
-| <a name="output_application_arn"></a> [application\_arn](#output\_application\_arn) | Amazon Resource Name (ARN) of the PinPoint Application |
+| <a name="output_application_arn"></a> [application\_arn](#output\_application\_arn) | Amazon Resource Name (ARN) of the PinPoint Application. |
 | <a name="output_application_id"></a> [application\_id](#output\_application\_id) | The Application ID of the Pinpoint App. |
 <!-- END_TF_DOCS -->

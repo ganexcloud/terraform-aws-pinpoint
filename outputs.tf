@@ -5,5 +5,5 @@ output "application_id" {
 
 output "application_arn" {
   value       = aws_pinpoint_app.this.arn
-  description = "Amazon Resource Name (ARN) of the PinPoint Application"
+  description = "Amazon Resource Name (ARN) of the PinPoint Application."
 }
